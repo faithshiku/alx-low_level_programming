@@ -1,4 +1,4 @@
-#include "maih.h"
+#include "main.h"
 
 /**
  * _islower - checks if input is lowercase
